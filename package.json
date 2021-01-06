@@ -17,7 +17,7 @@
     "@fortawesome/vue-fontawesome": "^0.1.9",
     "ansi_up": "^4.0.4",
     "autolinker": "^3.13.0",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "bulma": "^0.8.0",
     "bulma-badge": "^3.0.1",
     "core-js": "^3.6.4",
